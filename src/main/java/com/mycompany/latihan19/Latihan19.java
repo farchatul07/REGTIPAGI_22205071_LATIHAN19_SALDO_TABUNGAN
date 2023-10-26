@@ -7,9 +7,11 @@ package com.mycompany.latihan19;
 /**
  *
  * @author user
- Nama: Farchatul Hudayah
- Nim: 22205071
- Prodi: Teknik Informatika
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : Program ini berisi program untuk Mengitung bunga per-bulan dan untuk Menghitung saldo akhir setiap bulan
  */
 public class Latihan19 {
 
